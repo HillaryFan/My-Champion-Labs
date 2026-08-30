@@ -1,0 +1,9 @@
+# Private or working-source formats are not part of the public repository.
+*.docx
+*.zip
+
+# Local operating-system and editor files.
+.DS_Store
+Thumbs.db
+*.swp
+*~
