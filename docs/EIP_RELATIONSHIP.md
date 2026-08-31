@@ -2,7 +2,7 @@
 
 **Ephemeral Intelligence Protocol™ (EIP™)** is a separate proprietary enterprise AI operating-model framework developed by Hillary Fan.
 
-My Champion Labs and Oracle & Champion may draw on EIP™ concepts as part of their research and case analysis, especially around:
+My Champion Labs and EIP™ are separate research surfaces. They may share high-level interests, vocabulary, or evidence discipline, especially around:
 
 - Default Ephemeral and deliberate persistence;
 - organizational learning vs model learning;
@@ -17,7 +17,9 @@ My Champion Labs and Oracle & Champion may draw on EIP™ concepts as part of th
 
 **EIP™ repository:** framework of record and approved public baseline.  
 **My Champion Labs repository:** experiment, provenance, and selected research record.  
-**Oracle & Champion:** bounded field probe applying the broader research substrate to real external cases.
+**Oracle & Champion:** independent bounded trajectory experiment testing whether candidate coordination and capability patterns developed through longitudinal human–AI interaction can transfer to real external cases, and what that evidence could contribute to future agent development and commercial application.
+
+Oracle & Champion is **not** an EIP™ pilot, implementation, or validation program. Evidence from Oracle & Champion should not be presented as validation or falsification of EIP™; likewise, EIP™ is not required to support Oracle & Champion's core trajectory hypothesis.
 
 Publication in this repository does not transfer ownership of EIP™, disclose the complete EIP™ method, or change the canonical status of any EIP™ version.
 
