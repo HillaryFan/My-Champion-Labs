@@ -4,7 +4,7 @@ Recommended repository name: **My-Champion-Labs**
 
 Recommended description:
 
-> Public research and provenance record for My Champion Labs, including the Oracle & Champion bounded field probe and selected AI operating-model research signals.
+> Public research and provenance record for My Champion Labs, including the Oracle & Champion bounded trajectory field probe and selected AI operating-model research signals.
 
 Before making public:
 
