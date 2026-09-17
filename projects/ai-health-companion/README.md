@@ -21,6 +21,8 @@ The public text replaces personal identities, family relationships, and individu
 | [Source provenance](governance/PROVENANCE.md) | Source dates, versions, original-byte SHA-256, and adaptation rules |
 | [Rights and disclosure notice](governance/RIGHTS_AND_DISCLOSURE.md) | Intellectual-property and permitted-disclosure boundaries |
 | [External references](references/README.md) | Reference register with verification limits |
+| [Productization note](docs/productization/PRODUCTIZATION_NOTE.md) | Source-reported observations, seven system layers, and requirements still needing validation |
+| [Market and competitive analysis](research/market-competitive-analysis/README.md) | Dated market research, competitor comparisons, and unvalidated opportunity hypotheses |
 | [Traditional Chinese](zh-TW/README.md) | Separate Chinese public reading path |
 
 ## Project boundaries
