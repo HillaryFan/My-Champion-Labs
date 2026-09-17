@@ -9,6 +9,8 @@
 - [主提案 V2 中文公開版](MAIN_PROPOSAL_V2.md)
 - [Addendum V2 中文公開版](ADDENDUM_V2.md)
 - [治理與智慧財產權邊界](GOVERNANCE_AND_RIGHTS.md)
+- [產品化技術備忘錄](PRODUCTIZATION_NOTE.md)
+- [市場與競品分析（2026-09-17）](research/market-competitive-analysis/README.md)
 - [英文專案入口](../README.md)
 - [去識別化測試規格](../prototype/TEST_SPECIFICATION.md)
 - [外部依據與核實狀態](../references/README.md)
