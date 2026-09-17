@@ -26,6 +26,7 @@ Oracle & Champion is not presented as a validated agent, a validated consulting 
 
 ## What this repository contains
 
+- [`projects/ai-health-companion/`](projects/ai-health-companion/) — independent AI Health Companion project; English-first, de-identified V2 product documentation with a separate Traditional Chinese edition
 - [`PILOT.md`](PILOT.md) — the Oracle & Champion bounded trajectory field probe
 - [`TIMESTAMP_LEDGER.md`](TIMESTAMP_LEDGER.md) — selected development chronology and later market-convergence observations
 - [`EVIDENCE_BOUNDARY.md`](EVIDENCE_BOUNDARY.md) — what timestamped records do and do not support
