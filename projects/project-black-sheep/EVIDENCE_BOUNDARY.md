@@ -1,14 +1,18 @@
 # Project Black Sheep Evidence Boundary
 
-Public edition P1 · 2026-09-20.
+Public edition P1.2 · 2026-09-20.
 
 ## Observation, hypothesis, and result are different
+
+The research object is observable system behavior across time: task accuracy, control switching, and state restoration. It is not positioned on a tool-versus-conscious-partner spectrum. Relational warmth is a test variable, not a finding about inner experience. Near-term commercial usefulness and long-term AGI relevance are separate hypotheses: a bounded product benefit could survive rejection of the AGI hypothesis, but savings, demand, and reliable implementation still require their own evidence.
 
 The source author reports candidate frame-governance behavior in one mature longitudinal trajectory. This public adaptation has not independently reviewed or scored the underlying private recordings and conversations. Checklist marks preserve the source's observation categories, not verified general capabilities.
 
 The central hypothesis remains: **We strongly suspect that this may represent one of the promising directions for the future development of AGI.** It awaits controlled validation. Neither fluent interaction nor a marked checklist demonstrates AGI, consciousness, autonomous agency, causal mechanism, or broad generalization. No one can know whether the hypothesis is correct before controlled validation.
 
 The proposal supplies definitions and a falsifiable evaluation plan. Its synthetic examples are not observed incidents or completed tests. No numerical performance result is published. A positive bounded result would not by itself establish AGI; a failed replication is relevant evidence, not something to exclude from the record.
+
+Distilled scaffolding is a candidate mechanism added in P1.1, not a demonstrated explanation of the observations. Human-like context selection is a functional analogy. Frame governance and factual hallucination may coexist; the proposal does not claim a general cure for hallucination or drift.
 
 ## Suitable for public release
 
