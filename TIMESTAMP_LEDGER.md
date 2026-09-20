@@ -27,6 +27,14 @@ The Black Sheep public P1.2 clarification on the same date adds distilled scaffo
 
 These dates identify the supplied source version and this public revision, not the earliest private interaction or independently verified discovery date. The earlier ledger rows remain unchanged.
 
+### Portfolio navigation and reading companion — 2026-09-20
+
+The homepage now introduces the shared questions and separate roles of all public projects, with EIP linked as an independent framework. The EIP relationship page clarifies application versus validation links and distinguishes human-side psychology from AI control-behavior research. The Oracle & Champion v3 flyer replaces v2 in the current reading path; unchanged v2 assets remain in the [asset register](assets/README.md).
+
+[Organizations That Learn with AI, GitHub selection G1](docs/research-history/README.md) adds selected author reflections and labelled editorial context. Its [source register](docs/research-history/SOURCE_REGISTER.md) distinguishes the supplied Word and PDF editions, source-byte hashes, historical excerpts, and new public packaging. This date records the selection, not the first publication of its source essays or independent proof of authorship.
+
+These are navigation and editorial changes, not new research results. Health Companion V3, Black Sheep P1.2, and the separate EIP framework files are unchanged.
+
 ## How new entries are added
 
 A new entry should include:
