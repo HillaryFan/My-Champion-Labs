@@ -40,7 +40,11 @@ Oracle & Champion tests external usefulness through a bounded paid engagement. I
 
 Bring a real, bounded problem at the intersection of AI capability, human judgment, operating models, or emerging product capability. The experiment examines whether a longitudinal human–AI collaboration can identify a useful blind spot, outline alternatives, and clarify what to test next.
 
-Read the [offer and research questions](PILOT.md) or the [current v3 flyer](assets/Oracle_and_Champion_Flagship_Flyer_v3.pdf). A paid case tests usefulness and production burden; it does not establish a validated agent or consulting model.
+Read the [offer and research questions](PILOT.md) or the [current v4 poster](assets/My_Champion_Labs_Poster_v4.pdf). A paid case tests usefulness and production burden; it does not establish a validated agent or consulting model.
+
+[![My Champion Labs: insights for AI transformation; Oracle & Champion offers one bounded case review and decision brief for US$500.](assets/My_Champion_Labs_Poster_v4.png)](assets/My_Champion_Labs_Poster_v4.pdf)
+
+The poster links to the public research behind the work. Scope is agreed before payment; any further collaboration is scoped separately. Access to controlled EIP materials is not included automatically.
 
 ## Evidence, versions, and public use
 

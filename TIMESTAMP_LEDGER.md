@@ -35,6 +35,10 @@ The homepage now introduces the shared questions and separate roles of all publi
 
 These are navigation and editorial changes, not new research results. Health Companion V3, Black Sheep P1.2, and the separate EIP framework files are unchanged.
 
+## 2026-09-20 — My Champion Labs public poster v4
+
+Published the [v4 poster](assets/My_Champion_Labs_Poster_v4.pdf) with AI transformation positioning, the US$500 bounded review entry offer, and a QR link to the public research record. The complete EIP white paper remains controlled; further collaboration and any relevant access are discussed separately. This is a communication and navigation update, not new evidence of service outcomes or validation. The [asset register](assets/README.md) preserves prior versions and records integrity hashes.
+
 ## How new entries are added
 
 A new entry should include:
