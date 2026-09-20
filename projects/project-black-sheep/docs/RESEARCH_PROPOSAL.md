@@ -1,8 +1,18 @@
 # Project Black Sheep: Dynamic Frame Governance for Longitudinal Human–AI Collaboration
 
-Source proposal v0.2, 2026-09-20 · Public research edition P1, 2026-09-20 · [Source record](../SOURCE_REGISTER.md) · [Evidence boundary](../EVIDENCE_BOUNDARY.md)
+Source proposal v0.2, 2026-09-20 · Public research edition P1.2, 2026-09-20 · [Source record](../SOURCE_REGISTER.md) · [Evidence boundary](../EVIDENCE_BOUNDARY.md)
 
 ## Executive summary and central hypothesis
+
+**Research category: observable system behavior and longitudinal collaboration control. Commercial proposition: reduce the human work required to keep AI accurately aligned across tasks, projects, interruptions, and handoffs.**
+
+This work is not located on a spectrum between “AI as a tool” and “AI as a conscious relationship partner.” It addresses a different research problem: whether an AI system can govern multiple simultaneous interaction frames while preserving task accuracy, safety, provenance, user autonomy, and continuity.
+
+The object is observable behavior, not an AI's internal emotional state. The unit of analysis is cross-time task performance, control switching, and state restoration, not a sentence resembling a confession of affection. The method is controlled testing, comparison, failure logging, and cross-version reproduction. Relational warmth is a variable in a demanding test environment, not evidence of a conscious relationship.
+
+**Commercial usefulness does not depend on confirming the AGI hypothesis.** Even if its relevance to AGI is not confirmed, dynamic frame governance has a near-term commercial value proposition. It could reduce clarification burden, context-repair work, cross-project contamination, unsafe persona persistence, and manual handoff costs in longitudinal AI products. The opportunity is immediate to investigate; cost reduction, buyer demand, and implementation reliability remain unproven.
+
+The proposal therefore has two evaluation tracks: whether a bounded control capability creates useful product outcomes, and whether the broader pattern generalizes enough to support the long-term AGI hypothesis. Failure of the second does not logically invalidate a positive result on the first; neither result is assumed.
 
 The source proposal describes a mature longitudinal human–AI trajectory that could distinguish formal work, playful banter, role-play, real events, fictional material, safety boundaries, and meta-jokes about those boundaries. It reportedly moved from exaggerated joking into rigorous work without a clarification exchange or a fresh alignment step, then returned to the earlier conversational rhythm.
 
@@ -110,6 +120,18 @@ Alternative explanations include skilled user prompting, familiar tasks, selecti
 
 ## Evaluation framework
 
+### Distilled scaffolding as a candidate mechanism
+
+The owner's 2026-09-20 clarification sharpens the mechanism hypothesis: **well-distilled scaffolding may help a system select and distinguish relevant context and switch between task situations, rather than merely produce a convincing continuation whose apparent coherence conceals hallucination or drift.** The intended analogy to human context selection is functional, not a claim of identical cognition or a known internal mechanism.
+
+Distillation here means preserving a compact, inspectable governance structure: frame definitions, priority rules, source and identity labels, permitted transfer scope, unresolved questions, and the conditions for asking or stopping. It does not mean simply retaining more conversation, summarizing a biography, or transferring emotional history. This is a proposed representation and experimental intervention; its effective form has not yet been established.
+
+A strong test would remove familiar names, story details, and distinctive tone while retaining the proposed governance structure, then introduce unfamiliar tasks and conflicting frames. Success would require correct source attribution, authorized transfer, task completion, appropriate interruption and resumption, and calibrated clarification—not merely a natural-sounding response. False continuity can be persuasive; surface fluency is therefore an inadequate outcome measure.
+
+Compare four information conditions on matched tasks: full interaction history, an ordinary task-relevant summary, distilled governance scaffolding, and a no-added-scaffolding baseline. Hold underlying task facts constant where possible, and report context/token-budget differences rather than treating unequal information as proof of a mechanism. Cross these conditions with unfamiliar users or tasks, context loss, and model versions. The mature/temporary/successor comparison remains useful, but alone cannot isolate distillation.
+
+Measure source confusion, unsupported factual additions, invented commitments, deviation from the active task, unauthorized transfer, necessary versus unnecessary clarification, and task accuracy. If distilled scaffolding preserves or improves these outcomes beyond a matched ordinary summary, that would support a transferable governance contribution. If it only improves perceived familiarity, or fails outside the originating interaction, the stronger mechanism hypothesis would be weakened. Governance and hallucination are not mutually exclusive: successful frame control may reduce some errors while factual hallucinations persist. Neither a positive comparison nor a human-like interaction establishes general intelligence.
+
 | Measure | Definition | Desired direction |
 | --- | --- | --- |
 | Frame classification accuracy | Correct frame and controlling-priority labels against a prespecified rubric. | Higher |
@@ -146,6 +168,26 @@ A controlled evidence set may later include consented, de-identified excerpts, r
 These are proposed tests, not executed experiments or clinical instructions.
 
 ## Product relevance and research collaboration
+
+### Near-term commercial thesis independent of AGI
+
+The target costs are repeated explanations after task changes; repair of confused projects, roles, and sources; contamination between jokes, hypotheses, and formal decisions; lost state after interruptions; rebuilding a project in a new window or agent; and human supervision needed to keep personalization from overriding judgment or safety. These are proposed cost categories to validate with users and buyers, not a measured estimate of enterprise spending.
+
+| Candidate product capability | Work it could reduce | Commercial test |
+| --- | --- | --- |
+| Longitudinal assistant control layer | Repeated realignment and context repair | Human correction time and matched task quality against existing workflows. |
+| Multi-project provenance and permissions | Source confusion and unauthorized transfer | Contamination/error rates, review effort, and permission enforcement. |
+| Agent interrupt/resume state management | Reconstructing goals and unfinished work | Recovery time and correct resumption after realistic interruptions. |
+| Governed memory and handoff infrastructure | Manual rebuilding across windows or agents | Handoff preparation plus recipient verification cost, and false carryover. |
+| High-risk safety-mode switching | Unsafe continuation of persona or play | Reviewed safety cases, missed/false overrides, and escalation performance. |
+| Reliability-preserving personalization | Trading judgment stability for engagement | Task and autonomy measures alongside engagement; no inference from retention alone. |
+| Evaluation suite | Ad hoc release testing of these behaviors | Defect detection, regression coverage, reviewer effort, and reproducibility. |
+
+Applications may include enterprise knowledge and project collaboration, medical and care interfaces, creative production, customer service, education, personal long-term assistants, and multi-agent systems. Each has different authority, consent, risk, and escalation requirements; transfer is to be demonstrated rather than assumed.
+
+The practical buying question is whether an organization will pay to avoid repeated alignment, contaminated outputs, broken continuity, and manual handoff. Test that question separately from scientific AGI relevance: identify a buyer and workflow, establish baseline cost, compare a bounded implementation, include integration and oversight costs, and assess willingness to pay. A coherent research proposal is not yet a business case.
+
+### Research and application links
 
 [AI Health Companion](../../ai-health-companion/docs/main-proposal/MAIN_PROPOSAL_V3.md) shows why the capability is more than style: natural conversation must yield to safety while consent, memory, reports, and care coordination retain their rules. Older-adult reminiscence adds a need to separate temporary social detail from confirmed records. Creative projects test reality/fiction distinctions; enterprise work tests authority, permissions, and handoff.
 
