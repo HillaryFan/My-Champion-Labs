@@ -26,7 +26,8 @@ Oracle & Champion is not presented as a validated agent, a validated consulting 
 
 ## What this repository contains
 
-- [`projects/ai-health-companion/`](projects/ai-health-companion/) — independent AI Health Companion project; English-first, de-identified V2 product documentation with a separate Traditional Chinese edition
+- [`projects/ai-health-companion/`](projects/ai-health-companion/) — participant-controlled translation and coordination between daily life and formal care; [English V3](projects/ai-health-companion/docs/main-proposal/MAIN_PROPOSAL_V3.md), [中文 V3](projects/ai-health-companion/zh-TW/MAIN_PROPOSAL_V3.md), [preserved V2 and version history](projects/ai-health-companion/VERSION_HISTORY.md), and [market research](projects/ai-health-companion/research/market-competitive-analysis/README.md)
+- [`projects/project-black-sheep/`](projects/project-black-sheep/) — independent Dynamic Frame Governance research hypothesis for longitudinal human–AI collaboration and possible future AGI relevance; controlled validation remains to be done
 - [`PILOT.md`](PILOT.md) — the Oracle & Champion bounded trajectory field probe
 - [`TIMESTAMP_LEDGER.md`](TIMESTAMP_LEDGER.md) — selected development chronology and later market-convergence observations
 - [`EVIDENCE_BOUNDARY.md`](EVIDENCE_BOUNDARY.md) — what timestamped records do and do not support

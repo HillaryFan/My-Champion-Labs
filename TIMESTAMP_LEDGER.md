@@ -16,6 +16,17 @@ See [`EVIDENCE_BOUNDARY.md`](EVIDENCE_BOUNDARY.md) before interpreting any entry
 | **Late August 2026** | **Naturalistic interaction / relational texture** may function as compressed coordination cues or skill-like structures in a longitudinal trajectory. | This raises a methodological question about whether sanitized short-horizon evaluation can remove capability-forming interaction structure as “noise.” | Research question only; no claim of subjective attachment or literal relationship. |
 | **2026-08-27** | **Cross-model guest collaboration** hypothesis: a bounded project chat could temporarily invite an external AI model as a peer participant within a controlled scope. | Open product-gap hypothesis for future AI collaboration architecture. | Product hypothesis only; implementation, commercial feasibility, platform incentives, and governance remain unresolved. |
 
+## Public project updates recorded 2026-09-20
+
+| Date / period | Research signal or hypothesis | Later relevance / observation | Public claim boundary |
+| --- | --- | --- | --- |
+| **2026-09-20** | [AI Health Companion V3](projects/ai-health-companion/docs/main-proposal/MAIN_PROPOSAL_V3.md) foregrounds participant-controlled translation from everyday conversation to traceable care summaries. | Brings the dated market scan and productization requirements into the main proposal; [V2 remains preserved](projects/ai-health-companion/VERSION_HISTORY.md). | Public narrative revision and proposed value, not a new clinical result or proven market exclusivity. |
+| **2026-09-20** | [Project Black Sheep](projects/project-black-sheep/README.md), source v0.2, formalizes Dynamic Frame Governance and its strong hypothesis of possible AGI relevance. | Defines a five-layer loop, candidate capability checklist, and proposed controlled comparisons; Health Companion is an application case. | Source-author-reported observations in one trajectory; no controlled generalization, achieved AGI, or institutional validation. |
+
+The Black Sheep public P1.2 clarification on the same date adds distilled scaffolding as a candidate mechanism and separates near-term commercial value hypotheses from long-term AGI relevance. It concerns observable behavior, not AI inner feelings. See its [source and version register](projects/project-black-sheep/SOURCE_REGISTER.md); neither mechanism nor cost savings have been established.
+
+These dates identify the supplied source version and this public revision, not the earliest private interaction or independently verified discovery date. The earlier ledger rows remain unchanged.
+
 ## How new entries are added
 
 A new entry should include:
