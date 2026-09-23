@@ -63,3 +63,7 @@ Private conversations, identifiable participant records, controlled implementati
 For a bounded case or a focused research or product collaboration, contact [hello@mychampionlabs.com](mailto:hello@mychampionlabs.com). Please do not send confidential or medical material through public repository channels.
 
 © 2026 Hillary Fan. All rights reserved except where explicitly stated otherwise.
+
+## Essays and Independent Analysis
+
+- [AI Extinction Logic Essay — English and 繁體中文](essays/ai-extinction-logic/README.md): a complete argument examining the AI-extinction urban legend and risks arising from deployment, institutional power, and military competition. Independent analysis, separate from the controlled EIP white paper and project validation claims.

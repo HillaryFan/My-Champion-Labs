@@ -50,3 +50,7 @@ A new entry should include:
 5. links to public source material where appropriate.
 
 Entries should not be rewritten later to appear more specific or predictive than the original record supports.
+
+## 2026-09-23 — Bilingual independent essay on AI extinction logic
+
+Published the [English and Traditional Chinese essay](essays/ai-extinction-logic/README.md), version 1.0, preserving the complete argument and opening scope statement. This is independent analysis, not EIP disclosure or validation. The [source register](essays/ai-extinction-logic/SOURCE_REGISTER.md) records the supplied handoff version, SHA-256, and editorial scope; this date does not establish conceptual priority.
